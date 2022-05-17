@@ -69,6 +69,10 @@ The conversion of `Sign language` to Spoken Language.
 
 
 
-https://user-images.githubusercontent.com/69314264/168771037-c21eddf0-71b8-427c-a796-ef2f5a73ffcd.mp4
+
+https://user-images.githubusercontent.com/69314264/168775253-93a68a4c-8a22-4475-81f3-37393add6653.mp4
+
+
+
 
 
