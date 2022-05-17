@@ -16,11 +16,19 @@ Download the dataset and place it in data/ (in the same path as WLASL directory)
 
 To run the project follow the steps
 
-1. Install the packages mentioned in the requirements.txt file
-2. Open the WLASL/I3D folder and unzip the NLP folder in that path
-3. Open the run.py file to run the application
+1. Clone the repo
+
+ ```
+ 
+ git clone https://github.com/alanjeremiah/WLASL-Recognition-and-Translation.git
+ 
+ ```
+2. Install the packages mentioned in the requirements.txt file
+3. Open the WLASL/I3D folder and unzip the NLP folder in that path
+4. Open the run.py file to run the application
 
 ```
+
 python run.py
 
 ```
