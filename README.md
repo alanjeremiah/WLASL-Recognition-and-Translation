@@ -18,10 +18,10 @@ To run the project follow the steps
 2. Open the WLASL/I3D folder and unzip the NLP folder in that path
 3. Open the run.py file to run the application
 
-'''
+```
 python run.py
 
-'''
+```
 
 ### Model
 
