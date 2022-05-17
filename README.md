@@ -66,3 +66,9 @@ The KeyToText was built over T5 model by Gagan, the repo can be found [here](htt
 The end results of the project looks like this. 
 
 The conversion of `Sign language` to Spoken Language.
+
+
+
+https://user-images.githubusercontent.com/69314264/168771037-c21eddf0-71b8-427c-a796-ef2f5a73ffcd.mp4
+
+
