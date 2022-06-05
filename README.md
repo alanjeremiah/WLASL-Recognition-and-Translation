@@ -3,7 +3,7 @@
 This repository contains the "WLASL Recognition and Translation", employing the `WLASL` dataset descriped in "Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison" by Dongxu Li.
 
 
->The project uses Cuda and pytorch, hence a system with NVIDIA graphics is required. 
+>The project uses Cuda and pytorch, hence a system with NVIDIA graphics is required. Also, to run the system a minimum of 4-5 Gb of dedicated GPU Memory is needed.
 
 
 ### Download Dataset
